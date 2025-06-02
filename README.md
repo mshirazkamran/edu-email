@@ -25,6 +25,10 @@ Let's dive in and see what amazing freebies await! 👇
 
 ## Lucidchart
 
+
+### [Access Lucidchart education!](https://lucid.app/users/registerOrLogin/free)
+
+
 Students and teachers
 A free Lucid for Education plan is available to individual teachers and students in K-12 and Higher Education.
 To get a free educational account, follow these steps:
@@ -36,11 +40,14 @@ To get a free educational account, follow these steps:
   <img src="lucidchart.png" alt="Lucid chart student tier" width="420"/>
 </p>
 
-### [Access Lucidchart education!](https://lucid.app/users/registerOrLogin/free)
 
 ---
 
 ## Figma
+
+
+### [Access Figma education](https://www.figma.com/education/)
+
 
 **Figma for Education**
 
@@ -51,12 +58,14 @@ Figma and FigJam are design and collaboration software used by professional desi
   <img src="figma.png" alt="Figma student tier" width="420"/>
 </p>
 
-### [Access Figma education](https://www.figma.com/education/)
 
 ---
 
 ## GitHub Student Developer Pack (THE GOAT)
 ### This pack has the most amount of free services, discounts and learning platforms!
+
+### [Access GitHub student developer pack!](https://education.github.com/pack)
+
 
 Learn to ship software like a pro. There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends.
 
@@ -76,7 +85,6 @@ Once your application is approved, navigate to your GitHub Education portal to u
 4.  **Learning Resources:** You'll get free access to courses and tutorials from sites like Udacity, DataCamp, and Frontend Masters, covering everything from web development to data science.
 5.  **Developer Tools and Services:** You'll get access to powerful code editors from JetBrains, project management tools like Asana, and collaboration platforms like Slack, all designed to make your development process smoother and your teamwork more effective.
 
-#### [Access GitHub student developer pack!](https://education.github.com/pack)
 
 <p align="center">
   <img src="github.png" alt="GitHub Student Developer Pack" width="260"/>
